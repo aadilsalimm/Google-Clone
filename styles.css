@@ -1,0 +1,46 @@
+.main {
+    margin-top: 100px;
+}
+
+img {
+    width: 300px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input{
+    width: 500px;
+    height: 24px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 25px;
+    border: 1px solid  #9aa0a6;
+    border-radius:24px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:20px;
+
+}
+
+.btn {
+    background-color: #dddedf;
+    border: none;
+    border-radius: 5px;
+    color:#202124;
+    font-size:14px;
+    padding-top:8px;
+    padding-bottom:8px;
+    padding-left:16px;
+    padding-right:16px;
+    margin-top: 30px;
+    margin-left:7.5px;
+    margin-right:7.5px;
+}
+
+.btn-flex {
+    display:flex;
+    justify-content:center;
+}
